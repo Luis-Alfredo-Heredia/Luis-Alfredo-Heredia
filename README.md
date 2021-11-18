@@ -1,16 +1,23 @@
-### Hi there 👋
 
-<!--
-**Luis-Alfredo-Heredia/Luis-Alfredo-Heredia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Header](https://eduardofierro.pro/assets/thumb/github-cover.jpg "Header")]()
 
-Here are some ideas to get you started:
+<p align="center">
+    
+    <a href="" target="blank" style="margin: 0 20px;">
+      <img align="center" src="https://simpleicons.org/icons/twitch.svg" alt="" height="28px" width="28px" />
+    </a>
+    <a href="" target="blank" style="margin: 0 20px;">
+      <img align="center" src="https://simpleicons.org/icons/tiktok.svg" alt="" height="28px" width="28px" />
+    </a>
+    
+  
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 👉 Sobre mí
+Soy un **Desarrollador Frontend and Backend** 
+
+
+#### 📝 Artículos de mi web []():
+- [Qué demandan las empresas]()
+
