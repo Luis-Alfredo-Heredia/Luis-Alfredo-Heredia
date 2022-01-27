@@ -1,5 +1,4 @@
-[![Header](https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/480/public/media/image/2020/02/lenguaje-programacion-1859691.jpg?itok=PSYEVgtj "Header")]()
-<img align="center" src="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/480/public/media/image/2020/02/lenguaje-programacion-1859691.jpg?itok=PSYEVgtj" alt="Luis Heredia" height="30" width="100%" />
+<img align="center" src="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/480/public/media/image/2020/02/lenguaje-programacion-1859691.jpg?itok=PSYEVgtj" alt="Luis Heredia" height="300px" width="100%" object-fit="cover" />
 <h1 align="center">Hi 👋, I'm Luis Heredia!</h1>
 <h3 align="center">Backend & Frontend Developer✌️</h3>
 
