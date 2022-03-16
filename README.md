@@ -1,8 +1,8 @@
-<img align="center" src="https://www.canva.com/design/DAE69CXUie8/pqaxEgLQ9MBoYjGJ97dxPw/view?utm_content=DAE69CXUie8&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" alt="Luis Heredia" height="300px" width="100%" object-fit="cover" />
+<img align="center" src="https://github.com/Luis-Alfredo-Heredia/Luis-Alfredo-Heredia/blob/main/Luis%20Heredia.png" alt="Luis Heredia" height="300px" width="100%" object-fit="cover" />
 <h1 align="center">Hi 👋, I'm Luis Heredia!</h1>
 <h3 align="center">Backend & Frontend Developer✌️</h3>
 
-<p align="left"> <img src="https://github.com/Luis-Alfredo-Heredia/Luis-Alfredo-Heredia/blob/main/Luis%20Heredia.png" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Luis-Alfredo-Heredia&label=Profile%20views&color=0e75b6&style=flat" alt="Luis-Alfredo-Heredia" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://luis-alfredo-heredia.github.io/Portfolio/]
 - 📫 How to reach me **luis.alfredo.heredia@hotmail.es**
